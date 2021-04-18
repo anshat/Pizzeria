@@ -1,0 +1,11 @@
+body{
+    background-image:url("pizza.png");
+    text-align: center;
+    background-repeat: no-repeat;
+}
+#ans{
+    color: black;
+    font-variant: small-caps;
+    margin-top: 20px;
+    font-size: 23px;
+}
